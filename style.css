@@ -1,0 +1,106 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#cv{
+    max-width: 1000px;
+    background-color: bisque;
+    margin:  0 auto;
+}
+
+    /*Header Section start*/
+
+.profile_image{
+    width: 120px;
+    border: 1px solid white;
+    float: right;
+    margin-top: 20px;
+    margin-right: 50px;
+    
+}
+#r_detail{ 
+    padding: 50px;
+}
+#r_detail h1{ 
+    padding-bottom: 20px;
+}
+#r_detail p{
+    font-weight:bolder;
+    padding: 1px;
+}
+#r_detail a{ 
+    text-decoration: none;
+    color: black;
+    
+}
+#r_detail a:hover{ 
+   color: rgb(53, 9, 212);
+   text-decoration: underline;
+}
+    /*Header Section end*/
+
+    
+#div_clear{
+        clear: both;
+    }
+    
+hr{
+        border: solid 1px black;
+       margin: 0 auto;
+        
+    }
+
+
+main{
+       
+        margin-left: 50px;
+        margin-top: 20px;
+        margin-right: 50px;
+    }
+.Career{
+    background-color: white;
+   
+}
+main p{
+    text-align: justify;
+    text-indent: 50px;
+    
+}
+
+
+    /* BBA education section start*/
+section {
+       
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-right: 50px;
+}
+.education{
+    background-color: white;
+}
+.data{
+    padding: 5px;
+    margin-left: 20px;
+}
+.family-info{
+    margin-left: 50px;
+}
+
+    footer{
+        background-color: black;
+        text-align: center;
+        color: white;
+        padding: 10px;
+    }
+    footer a{
+        text-decoration: none;
+        color: rgb(255, 255, 255);
+        padding: 10px;
+    }
+    footer p{
+        padding: 10px;
+    }
+    footer a:hover{
+        color:rgb(255, 251, 0);
+    }
+    
